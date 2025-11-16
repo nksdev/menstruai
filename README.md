@@ -87,7 +87,7 @@ No installation or build process is needed.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/menstruai.git](https://github.com/your-username/menstruai.git)
+    git clone [https://github.com/nksdev/menstruai.git](https://github.com/nksdev/menstruai.git)
     ```
 2.  **Navigate to the directory:**
     ```sh
