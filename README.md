@@ -1,4 +1,5 @@
-# @namanmic
+# @namanmic 
+## you can download app from https://appsgeyser.io/19270010/Menstru [ android ]
 # MenstruAI - Your Menstrual Health Companion
 
 ![MenstruAI App Icon](./icon.png)
